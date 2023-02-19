@@ -44,6 +44,3 @@
 * WeepCraft 0.2
 * Xatz 0.9b1
 
-## If you have any client's source, feel free to dm me, my discord is chocopie#7690
-
-## Happy Skidding!
